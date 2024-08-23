@@ -7,6 +7,6 @@ the score is based off this piano arrangement: https://musescore.com/user/407741
 
 this is my project: https://www.desmos.com/calculator/bufvlwhn0f
 
-play the "a" slider to start the song
+play the metronome icon above the note to start the song
 
 this actually took me like 8h but my dumb brain forgot to record the hours :)
